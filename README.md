@@ -1,4 +1,5 @@
 # LearningDLTool
 Learning Deep Learning Tool: Tensorflow and Keras
 
-Deep learning tensorflow book reference : https://github.com/gilbutITbook/080263
+Deep learning with Tensorflow book reference : https://github.com/gilbutITbook/080263
+Reinforcement learning with Keras book reference : https://github.com/rlcode/reinforcement-learning-kr-v2
