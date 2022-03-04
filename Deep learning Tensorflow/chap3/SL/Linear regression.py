@@ -38,3 +38,5 @@ plt.show()
 #evaluating model
 print('mean square method: ', metrics.mean_squared_error(y_test, y_pred))
 print('root of mean square method: ', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
+
+#hi
