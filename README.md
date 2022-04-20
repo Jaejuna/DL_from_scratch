@@ -1,5 +1,5 @@
 # LearningDLTool
-Learning Deep Learning Tool: Tensorflow and Keras
+Learning Deep Learning and Tools: Tensorflow and Keras
 
 ## Book references
 Deep learning with Tensorflow : https://github.com/gilbutITbook/080263 <br>
